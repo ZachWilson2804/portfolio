@@ -2,8 +2,8 @@
 
 ### Education
 Wilfrid Laurier University
-Bachelors of Business Administration (BBA)
-Minor in Sustainability
+- Bachelors of Business Administration (BBA)
+- Minor in Sustainability
 
 ### Certifications
 Data Science @ University of Toronto
